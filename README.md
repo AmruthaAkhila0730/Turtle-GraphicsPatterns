@@ -1,4 +1,4 @@
-# TurtleGraphicsPatterns
+# Turtle-GraphicsPatterns
 
 This repository contains a Python script that uses the Turtle graphics library to draw various patterns.
 
@@ -12,11 +12,11 @@ This repository contains a Python script that uses the Turtle graphics library t
 1. Make sure you have Python installed on your machine.
 2. Clone this repository:
     ```sh
-    git clone https://github.com/your-username/TurtleGraphicsPatterns.git
+    git clone https://github.com/AmruthaAkhila0730/Turtle-GraphicsPatterns.git
     ```
 3. Navigate to the repository folder:
     ```sh
-    cd TurtleGraphicsPatterns
+    cd Turtle-GraphicsPatterns
     ```
 4. Run the script:
     ```sh
